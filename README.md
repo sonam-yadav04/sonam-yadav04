@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sonam Yadav
 
-🚀 Full-stack developer building on a multi-tenant chatbot SaaS platform (**Lashvae**), working across backend (Python, FastAPI, SQLAlchemy) and frontend (React, TypeScript, Next.js).
+ Full-stack developer building on a multi-tenant chatbot SaaS platform (**Lashvae**), working across backend (Python, FastAPI, SQLAlchemy) and frontend (React, TypeScript, Next.js).
 
 - 🔭 Currently interning as a full-stack developer, shipping features across a production admin dashboard — stats, growth analytics, and lead management modules
 - 🌱 Actively self-studying **GenAI / LLM engineering** as my next career direction, alongside backend fundamentals and DSA
