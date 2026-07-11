@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Sonam Yadav
 
- Full-stack developer building on a multi-tenant chatbot SaaS platform (**Lashvae**), working across backend (Python, FastAPI, SQLAlchemy) and frontend (React, TypeScript, Next.js).
+ Full-stack developer building on a multi-tenant chatbot SaaS platform (Lashvae.com), working across backend (Python, FastAPI, SQLAlchemy,Postgress) and frontend (React, TypeScript, Next.js).
 
 - 🔭 Currently interning as a full-stack developer, shipping features across a production admin dashboard — stats, growth analytics, and lead management modules
 - 🌱 Actively self-studying **GenAI / LLM engineering** as my next career direction, alongside backend fundamentals and DSA
-- 💬 Ask me about FastAPI, SQLAlchemy, React/Next.js, or debugging gnarly full-stack bugs
-- 📫 Reach me at: your-email@example.com
+- 💬 Ask me about FastAPI, MySQL, React/Next.js, or debugging gnarly full-stack bugs
+- 📫 Reach me at: sonamyadav.ml@gmail.com
 - ⚡ Fun fact: I've spent a lot of time chasing down "falsy-zero" bugs — turns out `0` and `False` cause more chaos than you'd think
 
 ## 🧰 Tech Stack
@@ -22,7 +22,8 @@
 ## 📌 Featured Projects
 
 - **[Lashvae Admin Dashboard](#)** — Multi-tenant chatbot SaaS platform. Built growth analytics with a 7-day rolling cache system, fixed lead pipeline UI, and resolved cross-module data consistency bugs.
-- **[MyWeatherApp](#)** — Weather app fetching live temperature and location data via API.
+- **[AI_journal_system] (#)** —Built an AI-powered journal system that analyzes user text using a Groq LLM to detect emotions, extract keywords,and generate insights such as top emotions and most used ambience.
+- **[BOOk_finder_app]()** — Find your faviorate book to read.
 - **[Inventory Management System](#)** — Microservice-based inventory management backend.
 
 ## 📊 GitHub Stats
@@ -32,4 +33,4 @@
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonam-yadav-242149325/)
