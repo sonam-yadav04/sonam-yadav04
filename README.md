@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats
 
 ![Sonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonam-yadav04&show_icons=true&theme=default)
-![Top Langs](https://sonam-yadav04.github.io/Portfolio-website/#/skills))
+![Top Langs](https://sonam-yadav04.github.io/Portfolio-website/#/skills)
 
 ## 🌐 Connect
 
