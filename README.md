@@ -38,5 +38,5 @@
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonam-yadav-242149325/)
-[![MY_PORTFOLIO](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Career_website&logoColor=white)](https://github-readme-stats.vercel.app/api?username=sonam-yadav04&show_icons=true&theme=default)
+[![MY_PORTFOLIO](https://img.shields.io/badge/-PORTFOLIO-0077B5?style=flat-square&logo=Career_website&logoColor=white)](https://github-readme-stats.vercel.app/api?username=sonam-yadav04&show_icons=true&theme=default)
 
