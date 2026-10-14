@@ -31,7 +31,7 @@
 > *I don't just write code. I build systems people rely on.*
 
 I'm a **full-stack developer** focused on scalable architecture, real-world problem solving, and shipping meaningful products.
-• 🚀 **Professional Experience:** Engineered production features for a multi-tenant chatbot SaaS platform (Lashvae.com)—building scalable backend services with Python, FastAPI, SQLAlchemy, and PostgreSQL, and developing responsive admin modules (growth analytics, stats, and lead management) in React, TypeScript, and Next.js.
+
 • 🌱 **Current Focus:** Post-internship, I am fully dedicated to mastering GenAI/LLM engineering, building and deploying custom AI applications, and sharpening my fundamentals in Data Structures, Algorithms (DSA), and production system design.
 
 </td>
