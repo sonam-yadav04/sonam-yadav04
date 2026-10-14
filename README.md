@@ -28,12 +28,12 @@
 - **[AI_journal_system](https://github.com/sonam-yadav04/ai_journal_system)** —Built an AI-powered journal system that analyzes user text using a Groq LLM to detect emotions, extract keywords,and generate insights such as top emotions and most used ambience.
 - **[BOOk_finder_app](https://sonam-yadav04.github.io/BOOKS_FINDER/)** — Find your faviorate book to read.
 - **[Inventory Management System](#)** — Microservice-based inventory management backend.
-- **[my_portfolio](https://sonam-yadav04.github.io/Portfolio-website/)** — The project showcases my skills, projects, and professional details while demonstrating my ability to build modern web applications using component-based architecture, state management, and responsive design principles.
+- **[my_portfolio](https://portfolio-website-beta-one-57.vercel.app/)** — The project showcases my skills, projects, and professional details while demonstrating my ability to build modern web applications using component-based architecture, state management, and responsive design principles.
 
 ## 📊 GitHub Stats
 
 ![Sonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonam-yadav04&show_icons=true&theme=default)
-![Top Langs](https://sonam-yadav04.github.io/Portfolio-website/#/skills)
+![Top Langs](https://portfolio-website-beta-one-57.vercel.app/#/skills)
 
 ## 🌐 Connect
 
