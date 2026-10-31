@@ -136,19 +136,22 @@ ask_me_about:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sonam-yadav04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" alt="Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonam-yadav04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top languages" width="48%" />
+<!-- GitHub Stats -->
+<img src="https://github-stats-extended.vercel.app/api?username=sonam-yadav04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="48%" />
+
+<!-- Top Languages -->
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonam-yadav04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="48%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=sonam-yadav04&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" alt="Streak" />
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=sonam-yadav04&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sonam-yadav04&type=grid&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Contribution Graph" width="96%" />
-<br/><br/>
+<!-- Profile Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=sonam-yadav04&theme=tokyonight&no-frame=true&no-bg=true&column=6" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=sonam-yadav04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6" alt="Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
